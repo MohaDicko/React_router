@@ -1,4 +1,4 @@
-import React from 'react'
+// MovieList.js
 import MovieCard from './MovieCard'
 
 const MovieList = ({ movies }) => {

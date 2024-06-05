@@ -1,4 +1,4 @@
-import React from 'react'
+//FIlter.js
 
 const Filter = ({ title, rate, onTitleChange, onRateChange }) => {
     return (
